@@ -1,0 +1,9 @@
+C:\Users\Mosaic Srl\source\repos\ProvaPWD\bin\Debug\ProvaPWD.exe.config
+C:\Users\Mosaic Srl\source\repos\ProvaPWD\bin\Debug\ProvaPWD.exe
+C:\Users\Mosaic Srl\source\repos\ProvaPWD\bin\Debug\ProvaPWD.pdb
+C:\Users\Mosaic Srl\source\repos\ProvaPWD\obj\Debug\ProvaPWD.csprojAssemblyReference.cache
+C:\Users\Mosaic Srl\source\repos\ProvaPWD\obj\Debug\ProvaPWD.Form1.resources
+C:\Users\Mosaic Srl\source\repos\ProvaPWD\obj\Debug\ProvaPWD.Properties.Resources.resources
+C:\Users\Mosaic Srl\source\repos\ProvaPWD\obj\Debug\ProvaPWD.csproj.GenerateResource.cache
+C:\Users\Mosaic Srl\source\repos\ProvaPWD\obj\Debug\ProvaPWD.exe
+C:\Users\Mosaic Srl\source\repos\ProvaPWD\obj\Debug\ProvaPWD.pdb
